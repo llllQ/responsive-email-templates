@@ -1,4 +1,4 @@
-# responsive-email-templates
+# Responsive Email Templates
 ## A series of responsive email templates.
 Templates included are:<br>
 <ul>
